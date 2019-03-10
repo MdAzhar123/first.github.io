@@ -1,0 +1,62 @@
+body{
+    
+    
+    background-color: beige;
+}
+
+#picture{
+    margin-top: 10px;
+    margin-left: 450px;
+}
+
+#p1{
+    
+    color:crimson;
+    margin-left: 470px;
+}
+
+#nav{
+    
+    float:left;
+    padding-bottom: 100px;
+    color: aquamarine;
+}
+
+.ip1 {
+    margin-left: 570px;
+    text-align: center;
+    display: block;
+    border-radius: 20px;
+    padding: 20px; 
+    width: 300px;
+    height: 8px;
+    background-color:aqua;
+   
+    border:transparent;
+    }
+
+ #ip2 {
+    border-radius: 20px;
+    padding-left:13px; 
+    width: 100px;
+    height: 50px;
+    background-color:burlywood;
+    color:#383838;
+    border:transparent;
+    margin-left: 590px;
+    
+    }
+    
+    #ip3{
+        
+        border-radius: 20px;
+    padding-left:13px; 
+    width: 100px;
+    height: 50px;
+    background-color:burlywood;
+    color:#383838;
+    border:transparent;
+       
+    margin-left: 70px;
+  
+    }

@@ -1,0 +1,132 @@
+body{
+    
+    
+    background-color: beige;
+}
+
+
+#p1{
+    
+    color:crimson;
+    margin-left: 610px;
+}
+.p2{
+    
+    color: burlywood;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+
+
+.ip1 {
+    
+    margin-top: -50px;
+    margin-left: 230px;
+    text-align: center;
+    display: block;
+    border-radius: 20px;
+    padding: 20px; 
+    width: 300px;
+    height: 5px;
+    background-color:azure;
+   
+    border:transparent;
+    }
+.add-product {
+	border-top: none;
+	border-bottom: 1px solid azure;
+    background-color: azure;
+	border-left: none;
+	border-right: none;
+	font-size: 15px;
+	padding: 10px;
+	/*padding-left: 20px;*/
+    margin-left: 250px;
+    margin-top: -50px;
+    border-radius: :15px;
+    
+}
+#text5 {
+
+height:45px;
+border-radius: 0;
+
+    
+    border-style: solid;
+    border: none;
+    border-bottom: 1.5px solid #efefef;
+    box-shadow: inset 0px 0px 0px 0px;
+width:350px;
+color:#000000;
+background-color:azure;
+font-size:20px;
+padding-left:115px;
+text-align:left;
+ 
+    position:sticky;
+    border-radius: 20px;
+    
+    margin-top: -80px;
+    margin-left: 230px;
+   
+ 
+}
+#text6{
+    background-color:azure;
+    border-radius: 300px;
+}
+.p3{
+    
+    color: burlywood;
+    margin-left: 840px;
+    margin-top:-450px;
+    
+}
+.ip2 {
+    
+    margin-top: -50px;
+    margin-left: 1000px;
+    text-align: center;
+    display: block;
+    border-radius: 20px;
+    padding: 20px; 
+    width: 300px;
+    height: 5px;
+    background-color:azure;
+   
+    border:transparent;
+    }
+
+.p4{
+    
+    color: burlywood;
+    margin-left: 840px;
+    margin-top:50px;
+    
+}
+.ip3 {
+    
+    margin-top: -50px;
+    margin-left: 1000px;
+    text-align: center;
+    display: block;
+    border-radius: 20px;
+    padding: 20px; 
+    width: 300px;
+    height: 5px;
+    background-color:azure;
+   
+    border:transparent;
+    }
+#add
+{
+	width:100px;
+	border-radius:25px;
+	border: 1px solid #cdcdcd;
+	background-color:darkgoldenrod;
+	color:white;
+	margin-left: 1200px;
+    margin-top: 250px;
+	font-size:18px;
+}
